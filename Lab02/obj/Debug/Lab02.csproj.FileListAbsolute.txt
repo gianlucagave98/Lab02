@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\usuario\source\repos\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\usuario\source\repos\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\usuario\source\repos\Lab02\Lab02\obj\Debug\Lab02.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Lab02\Lab02\obj\Debug\Lab02.formLogin.resources
+C:\Users\usuario\source\repos\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\usuario\source\repos\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\usuario\source\repos\Lab02\Lab02\obj\Debug\Lab02.pdb
+C:\Users\usuario\source\repos\Lab02\Lab02\obj\Debug\Lab02.manUsuario.resources
+C:\Users\usuario\source\repos\Lab02\Lab02\obj\Debug\Lab02.PrincipalMDI.resources
